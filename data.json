@@ -1,0 +1,1352 @@
+[{
+	"period": {
+		"end": "2023-05-01",
+		"start": "2023-08-01"
+	},
+	"rates": [
+
+		{
+			"City": "VIENNA",
+			"Country": "Austria",
+			"Currency": "EUR",
+			"Arbitary_Value": 141.87
+		},
+
+		{
+			"City": "BRUSSELS",
+			"Country": "Belgium",
+			"Currency": "EUR",
+			"Arbitary_Value": 165
+		},
+
+		{
+			"City": "CASTEAU",
+			"Country": "Belgium",
+			"Currency": "EUR",
+			"Arbitary_Value": 134.4
+		},
+
+		{
+			"City": "IEPER",
+			"Country": "Belgium",
+			"Currency": "EUR",
+			"Arbitary_Value": 120.84
+		},
+
+		{
+			"City": "LIEGE",
+			"Country": "Belgium",
+			"Currency": "EUR",
+			"Arbitary_Value": 132
+		},
+
+		{
+			"City": "MONS",
+			"Country": "Belgium",
+			"Currency": "EUR",
+			"Arbitary_Value": 134.4
+		},
+
+		{
+			"City": "OSTEND",
+			"Country": "Belgium",
+			"Currency": "EUR",
+			"Arbitary_Value": 120
+		},
+
+		{
+			"City": "LARNACA",
+			"Country": "Cyprus",
+			"Currency": "EUR",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "LIMASSOL",
+			"Country": "Cyprus",
+			"Currency": "EUR",
+			"Arbitary_Value": 180
+		},
+
+		{
+			"City": "NICOSIA",
+			"Country": "Cyprus",
+			"Currency": "EUR",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "BRNO",
+			"Country": "Czech Republic",
+			"Currency": "EUR",
+			"Arbitary_Value": 132
+		},
+
+		{
+			"City": "OLOMOUC",
+			"Country": "Czech Republic",
+			"Currency": "EUR",
+			"Arbitary_Value": 156
+		},
+
+		{
+			"City": "PRAGUE",
+			"Country": "Czech Republic",
+			"Currency": "EUR",
+			"Arbitary_Value": 108
+		},
+
+		{
+			"City": "TREBIC",
+			"Country": "Czech Republic",
+			"Currency": "CZK",
+			"Arbitary_Value": 2400
+		},
+
+		{
+			"City": "AALBORG",
+			"Country": "Denmark",
+			"Currency": "DKK",
+			"Arbitary_Value": 1290
+		},
+
+		{
+			"City": "COPENHAGEN",
+			"Country": "Denmark",
+			"Currency": "DKK",
+			"Arbitary_Value": 1200
+		},
+
+		{
+			"City": "TALLINN",
+			"Country": "Estonia",
+			"Currency": "EUR",
+			"Arbitary_Value": 89
+		},
+
+		{
+			"City": "HELSINKI",
+			"Country": "Finland",
+			"Currency": "EUR",
+			"Arbitary_Value": 174
+		},
+
+		{
+			"City": "BLAGNAC (Toulouse)",
+			"Country": "France",
+			"Currency": "EUR",
+			"Arbitary_Value": 204
+		},
+
+		{
+			"City": "BORDEAUX",
+			"Country": "France",
+			"Currency": "EUR",
+			"Arbitary_Value": 120
+		},
+
+		{
+			"City": "BREST",
+			"Country": "France",
+			"Currency": "EUR",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "CAEN",
+			"Country": "France",
+			"Currency": "EUR",
+			"Arbitary_Value": 132
+		},
+
+		{
+			"City": "LILLE",
+			"Country": "France",
+			"Currency": "EUR",
+			"Arbitary_Value": 174
+		},
+
+		{
+			"City": "MARSEILLE",
+			"Country": "France",
+			"Currency": "EUR",
+			"Arbitary_Value": 162
+		},
+
+		{
+			"City": "PARIS",
+			"Country": "France",
+			"Currency": "EUR",
+			"Arbitary_Value": 190
+		},
+
+		{
+			"City": "TOULON",
+			"Country": "France",
+			"Currency": "EUR",
+			"Arbitary_Value": 126
+		},
+
+		{
+			"City": "TOULOUSE",
+			"Country": "France",
+			"Currency": "EUR",
+			"Arbitary_Value": 162
+		},
+
+		{
+			"City": "TOURS",
+			"Country": "France",
+			"Currency": "EUR",
+			"Arbitary_Value": 90
+		},
+
+		{
+			"City": "KAISERSLAUTERN",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 132
+		},
+
+		{
+			"City": "MUENSTER",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 162
+		},
+
+		{
+			"City": "MUNICH",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "OBERAMMERGAU",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 163.2
+		},
+
+		{
+			"City": "PADERBORN",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 162
+		},
+
+		{
+			"City": "RAMSTEIN",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 162
+		},
+
+		{
+			"City": "RUHPOLDING",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 84
+		},
+
+		{
+			"City": "WEGBERG",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 120
+		},
+
+		{
+			"City": "BAD FALLINGBOSTEL",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 132
+		},
+
+		{
+			"City": "BAD LIPPSPRINGE",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 174
+		},
+
+		{
+			"City": "BERGEN DE",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 78
+		},
+
+		{
+			"City": "BERLIN",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 138
+		},
+
+		{
+			"City": "BIELEFELD",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 120
+		},
+
+		{
+			"City": "BONN",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "CELLE",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 151.8
+		},
+
+		{
+			"City": "DETMOLD",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 132
+		},
+
+		{
+			"City": "DUSSELDORF",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 108
+		},
+
+		{
+			"City": "GARMISCH PARTENKIRCHEN",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 108
+		},
+
+		{
+			"City": "GUETERSLOH",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 135.66
+		},
+
+		{
+			"City": "HALLBERGMOOS",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 144
+		},
+
+		{
+			"City": "HAMBURG",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 128.4
+		},
+
+		{
+			"City": "HAMELN",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 154.08
+		},
+
+		{
+			"City": "HANNOVER",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 160.5
+		},
+
+		{
+			"City": "HEREFORD",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 96
+		},
+
+		{
+			"City": "LANDSTUHL",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 90
+		},
+
+		{
+			"City": "MONCHENGLADBACH",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 144
+		},
+
+		{
+			"City": "SINDELFINGEN",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 216
+		},
+
+		{
+			"City": "STUTTGART",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 132
+		},
+
+		{
+			"City": "ULM",
+			"Country": "Germany",
+			"Currency": "EUR",
+			"Arbitary_Value": 152.4
+		},
+
+		{
+			"City": "GIBRALTAR",
+			"Country": "Gibraltar",
+			"Currency": "GIP",
+			"Arbitary_Value": 125
+		},
+
+		{
+			"City": "ATHENS",
+			"Country": "Greece",
+			"Currency": "EUR",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "CHANIA",
+			"Country": "Greece",
+			"Currency": "EUR",
+			"Arbitary_Value": 113.78
+		},
+
+		{
+			"City": "BUDAPEST",
+			"Country": "Hungary",
+			"Currency": "EUR",
+			"Arbitary_Value": 126.5
+		},
+
+		{
+			"City": "REYKJAVIK",
+			"Country": "Iceland",
+			"Currency": "EUR",
+			"Arbitary_Value": 138
+		},
+
+		{
+			"City": "CASSINO",
+			"Country": "Italy",
+			"Currency": "EUR",
+			"Arbitary_Value": 90
+		},
+
+		{
+			"City": "CASTEL VOLTURNO",
+			"Country": "Italy",
+			"Currency": "EUR",
+			"Arbitary_Value": 108
+		},
+
+		{
+			"City": "CATANIA",
+			"Country": "Italy",
+			"Currency": "EUR",
+			"Arbitary_Value": 157.74
+		},
+
+		{
+			"City": "GIUGLIANO IN IN",
+			"Country": "Italy",
+			"Currency": "EUR",
+			"Arbitary_Value": 144
+		},
+
+		{
+			"City": "NAPLES",
+			"Country": "Italy",
+			"Currency": "EUR",
+			"Arbitary_Value": 120
+		},
+
+		{
+			"City": "ROME",
+			"Country": "Italy",
+			"Currency": "EUR",
+			"Arbitary_Value": 138
+		},
+
+		{
+			"City": "VARESE",
+			"Country": "Italy",
+			"Currency": "EUR",
+			"Arbitary_Value": 128.17
+		},
+
+		{
+			"City": "VILNIUS",
+			"Country": "Lithuania",
+			"Currency": "EUR",
+			"Arbitary_Value": 114
+		},
+
+		{
+			"City": "LUXEMBOURG",
+			"Country": "Luxembourg",
+			"Currency": "EUR",
+			"Arbitary_Value": 156
+		},
+
+		{
+			"City": "AMSTERDAM",
+			"Country": "Netherlands",
+			"Currency": "EUR",
+			"Arbitary_Value": 175
+		},
+
+		{
+			"City": "ARNHEM",
+			"Country": "Netherlands",
+			"Currency": "EUR",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "HEERLEN",
+			"Country": "Netherlands",
+			"Currency": "EUR",
+			"Arbitary_Value": 90
+		},
+
+		{
+			"City": "ROERMOND",
+			"Country": "Netherlands",
+			"Currency": "EUR",
+			"Arbitary_Value": 132
+		},
+
+		{
+			"City": "SCHEVENINGEN",
+			"Country": "Netherlands",
+			"Currency": "EUR",
+			"Arbitary_Value": 162
+		},
+
+		{
+			"City": "THE HAGUE",
+			"Country": "Netherlands",
+			"Currency": "EUR",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "VLISSINGEN",
+			"Country": "Netherlands",
+			"Currency": "EUR",
+			"Arbitary_Value": 144
+		},
+
+		{
+			"City": "BODO",
+			"Country": "Norway",
+			"Currency": "NOK",
+			"Arbitary_Value": 1920
+		},
+
+		{
+			"City": "BERGEN DE",
+			"Country": "Norway",
+			"Currency": "NOK",
+			"Arbitary_Value": 1494
+		},
+
+		{
+			"City": "OSLO",
+			"Country": "Norway",
+			"Currency": "NOK",
+			"Arbitary_Value": 1200
+		},
+
+		{
+			"City": "STAVANGER",
+			"Country": "Norway",
+			"Currency": "NOK",
+			"Arbitary_Value": 1944
+		},
+
+		{
+			"City": "TROMSO",
+			"Country": "Norway",
+			"Currency": "NOK",
+			"Arbitary_Value": 2132
+		},
+
+		{
+			"City": "WARSAW",
+			"Country": "Poland",
+			"Currency": "EUR",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "RZESZOW",
+			"Country": "Poland",
+			"Currency": "EUR",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "CARCAVELOS",
+			"Country": "Portugal",
+			"Currency": "EUR",
+			"Arbitary_Value": 132
+		},
+
+		{
+			"City": "CASCAIS",
+			"Country": "Portugal",
+			"Currency": "EUR",
+			"Arbitary_Value": 120
+		},
+
+		{
+			"City": "BUCHAREST",
+			"Country": "Romania",
+			"Currency": "EUR",
+			"Arbitary_Value": 141.6
+		},
+
+		{
+			"City": "BARCELONA",
+			"Country": "Spain",
+			"Currency": "EUR",
+			"Arbitary_Value": 174
+		},
+
+		{
+			"City": "MADRID",
+			"Country": "Spain",
+			"Currency": "EUR",
+			"Arbitary_Value": 142.56
+		},
+
+		{
+			"City": "SALAMANCA",
+			"Country": "Spain",
+			"Currency": "EUR",
+			"Arbitary_Value": 97.2
+		},
+
+		{
+			"City": "ZARAGOZA",
+			"Country": "Spain",
+			"Currency": "EUR",
+			"Arbitary_Value": 114
+		},
+
+		{
+			"City": "STOCKHOLM",
+			"Country": "Sweden",
+			"Currency": "SEK",
+			"Arbitary_Value": 2284.8
+		},
+
+		{
+			"City": "VERBIER",
+			"Country": "Switzerland",
+			"Currency": "EUR",
+			"Arbitary_Value": 420
+		},
+
+		{
+			"City": "ISTANBUL",
+			"Country": "Turkey",
+			"Currency": "EUR",
+			"Arbitary_Value": 226.56
+		},
+
+		{
+			"City": "IZMIR",
+			"Country": "Turkey",
+			"Currency": "EUR",
+			"Arbitary_Value": 129.6
+		},
+
+		{
+			"City": "CALGARY",
+			"Country": "Canada",
+			"Currency": "CAD",
+			"Arbitary_Value": 259
+		},
+
+		{
+			"City": "MEDICINE HAT",
+			"Country": "Canada",
+			"Currency": "CAD",
+			"Arbitary_Value": 153
+		},
+
+		{
+			"City": "MONTREAL",
+			"Country": "Canada",
+			"Currency": "CAD",
+			"Arbitary_Value": 230
+		},
+
+		{
+			"City": "OTTOWA",
+			"Country": "Canada",
+			"Currency": "CAD",
+			"Arbitary_Value": 249
+		},
+
+		{
+			"City": "ALBUQUERQUE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 111
+		},
+
+		{
+			"City": "ALEXANDRIA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 264
+		},
+
+		{
+			"City": "ANNAPOLIS",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 183.06
+		},
+
+		{
+			"City": "ANCHORAGE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 200
+		},
+
+		{
+			"City": "ARLINGTON",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 250
+		},
+
+		{
+			"City": "ATLANTA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 205.2
+		},
+
+		{
+			"City": "BALTIMORE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 234.6
+		},
+
+		{
+			"City": "BLYTHE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 186
+		},
+
+		{
+			"City": "BELLEVUE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 120
+		},
+
+		{
+			"City": "BOSTON",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 274.8
+		},
+
+		{
+			"City": "CAPE CANAVERAL",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 222
+		},
+
+		{
+			"City": "CHULA VISTA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 271.2
+		},
+
+		{
+			"City": "CHARLESTON",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 201.6
+		},
+
+		{
+			"City": "CHARLOTTESVILLE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 169.16
+		},
+
+		{
+			"City": "COCOA BEACH",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 240
+		},
+
+		{
+			"City": "COLORADO SPRINGS",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 196
+		},
+
+		{
+			"City": "COLUMBIA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 201.6
+		},
+
+		{
+			"City": "DAYTON",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 199.2
+		},
+
+		{
+			"City": "DESTIN",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 220
+		},
+
+		{
+			"City": "DOWELL",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 199.8
+		},
+
+		{
+			"City": "FAIRFAX",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 268.14
+		},
+
+		{
+			"City": "FAYETTEVILLE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 183.48
+		},
+
+		{
+			"City": "FORT MEADE/JESSOP",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 183.6
+		},
+
+		{
+			"City": "FORTH WORTH",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 199
+		},
+
+		{
+			"City": "FREDERICKSBURG",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 125.4
+		},
+
+		{
+			"City": "GRAND FORKS",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 162
+		},
+
+		{
+			"City": "HANOVER",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 183.6
+		},
+
+		{
+			"City": "HERNDON",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 196.2
+		},
+
+		{
+			"City": "HONOLULU",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 263
+		},
+
+		{
+			"City": "HUNTSVILLE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 120
+		},
+
+		{
+			"City": "JACKSONVILLE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 135.6
+		},
+
+		{
+			"City": "KANSAS CITY",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 155.06
+		},
+
+		{
+			"City": "LA JOLLA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 209
+		},
+
+		{
+			"City": "LAS CRUCES",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 117.36
+		},
+
+		{
+			"City": "LAS VEGAS",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 165
+		},
+
+		{
+			"City": "LOMPAK",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 192
+		},
+
+		{
+			"City": "LOS ANGELES",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 149
+		},
+
+		{
+			"City": "McLEAN",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 313.56
+		},
+
+		{
+			"City": "MELBOURNE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 196.56
+		},
+
+		{
+			"City": "MIAMI",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 213
+		},
+
+		{
+			"City": "MURRIETA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 145.2
+		},
+
+		{
+			"City": "MYSTIC",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 201.6
+		},
+
+		{
+			"City": "NEW YORK CITY",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 336
+		},
+
+		{
+			"City": "NORFOLK",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 169
+		},
+
+		{
+			"City": "OMAHA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 184.35
+		},
+
+		{
+			"City": "ORLANDO",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 162
+		},
+
+		{
+			"City": "PALMDALE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 192
+		},
+
+		{
+			"City": "PHILADELPHIA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 221.18
+		},
+
+		{
+			"City": "PHOENIX",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 163.1
+		},
+
+		{
+			"City": "RHODE ISLAND",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 147.6
+		},
+
+		{
+			"City": "RIDGECREST",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 125.4
+		},
+
+		{
+			"City": "RIVERSIDE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 133.81
+		},
+
+		{
+			"City": "ROCKWALL",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 183.6
+		},
+
+		{
+			"City": "SAN ANTONIO",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 168.12
+		},
+
+		{
+			"City": "SAN DIEGO",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 216
+		},
+
+		{
+			"City": "SAN FRANCISCO",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 215.2
+		},
+
+		{
+			"City": "SCOTTSDALE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 230.1
+		},
+
+		{
+			"City": "SOUTHERN PINES",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 216
+		},
+
+		{
+			"City": "STERLING",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 135.6
+		},
+
+		{
+			"City": "ST LOUIS",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 199.2
+		},
+
+		{
+			"City": "SYRACUSE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 162.72
+		},
+
+		{
+			"City": "TAMPA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 250
+		},
+
+		{
+			"City": "TEMECULA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 244.8
+		},
+
+		{
+			"City": "TUCSON",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 138.6
+		},
+
+		{
+			"City": "VICTORIAVILLE",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 139.2
+		},
+
+		{
+			"City": "VIRGINIA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 162
+		},
+
+		{
+			"City": "VIRGINIA BEACH",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 215
+		},
+
+		{
+			"City": "WARNER ROBINS",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 158.7
+		},
+
+		{
+			"City": "WASHINGTON",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 256
+		},
+
+		{
+			"City": "WICHITA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 135.96
+		},
+
+		{
+			"City": "WILMINGTON",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 162.72
+		},
+
+		{
+			"City": "WHIPPANY",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "YUMA",
+			"Country": "U.S.A",
+			"Currency": "USD",
+			"Arbitary_Value": 142.8
+		},
+
+		{
+			"City": "AUCKLAND",
+			"Country": "New Zealand",
+			"Currency": "NZD",
+			"Arbitary_Value": 407.28
+		},
+
+		{
+			"City": "WELLINGTON",
+			"Country": "New Zealand",
+			"Currency": "NZD",
+			"Arbitary_Value": 300
+		},
+
+		{
+			"City": "HAIFA",
+			"Country": "Isreal",
+			"Currency": "USD",
+			"Arbitary_Value": 312
+		},
+
+		{
+			"City": "TEL AVIV",
+			"Country": "Isreal",
+			"Currency": "USD",
+			"Arbitary_Value": 205
+		},
+
+		{
+			"City": "CANBERRA",
+			"Country": "Australia",
+			"Currency": "AUD",
+			"Arbitary_Value": 265
+		},
+
+		{
+			"City": "DARWIN",
+			"Country": "Australia",
+			"Currency": "AUD",
+			"Arbitary_Value": 408
+		},
+
+		{
+			"City": "SYDNEY",
+			"Country": "Australia",
+			"Currency": "AUD",
+			"Arbitary_Value": 295
+		},
+
+		{
+			"City": "MANAMA",
+			"Country": "Bahrain",
+			"Currency": "BHD",
+			"Arbitary_Value": 144
+		},
+
+		{
+			"City": "WILLEMSTAD",
+			"Country": "Curacao",
+			"Currency": "ANG",
+			"Arbitary_Value": 399.6
+		},
+
+		{
+			"City": "TOKYO",
+			"Country": "Japan",
+			"Currency": "JPY",
+			"Arbitary_Value": 52000
+		},
+
+		{
+			"City": "AMMAN",
+			"Country": "Jordan",
+			"Currency": "JOD",
+			"Arbitary_Value": 150
+		},
+
+		{
+			"City": "OMAN",
+			"Country": "Oman",
+			"Currency": "OMR",
+			"Arbitary_Value": 93.6
+		},
+
+		{
+			"City": "MUSCAT",
+			"Country": "Oman",
+			"Currency": "OMR",
+			"Arbitary_Value": 70
+		},
+
+		{
+			"City": "SALALAH",
+			"Country": "Oman",
+			"Currency": "OMR",
+			"Arbitary_Value": 70
+		},
+
+		{
+			"City": "RIYADH",
+			"Country": "Saudi Arabia",
+			"Currency": "SAR",
+			"Arbitary_Value": 879
+		},
+
+		{
+			"City": "SINGAPORE",
+			"Country": "Singapore",
+			"Currency": "SGD",
+			"Arbitary_Value": 250
+		},
+
+		{
+			"City": "ABU DHABI",
+			"Country": "United Arab Emirates (UAE)",
+			"Currency": "AED",
+			"Arbitary_Value": 899
+		},
+
+		{
+			"City": "DUBAI",
+			"Country": "United Arab Emirates (UAE)",
+			"Currency": "AED",
+			"Arbitary_Value": 799
+		},
+
+		{
+			"City": "FUJAIRAH",
+			"Country": "United Arab Emirates (UAE)",
+			"Currency": "AED",
+			"Arbitary_Value": 799
+		}
+	]
+}]
